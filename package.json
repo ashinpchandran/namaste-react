@@ -1,0 +1,33 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react",
+  "keywords": [
+    "react",
+    "ashinpchandran"
+  ],
+  "homepage": "https://github.com/ashinpchandran/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/ashinpchandran/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashinpchandran/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Ashin P Chandran",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
